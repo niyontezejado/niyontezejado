@@ -15,8 +15,7 @@ I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in 
 💼 **My Experience Journey**  
 - **AI Research Engineer** — IRCAD France & Africa *(May 2023 – Present)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
-  - 3D CT vessel segmentation using MONAI nnU-Net V2  
-  - Automated fetal biometry from ultrasound with real-time quality checks  
+  - 3D CT vessel segmentation using MONAI nnU-Net V2   
 - **Graduate Teaching Assistant** — Carnegie Mellon University *(Sep 2022 – Dec 2022)*  
   - Assisted in Data Inference and Applied ML course  
 - **Laboratory Researcher** — Fujian Key Lab, China *(Sep 2018 – Jun 2021)*  
