@@ -32,10 +32,8 @@ I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in 
 ---
 
 🌱 **My Latest Projects**  
-- [Lung Segmentation from Chest X-rays](https://github.com/niyontezejado/Lung_segmentation)  
-- [Credit Card Approval Prediction](https://github.com/niyontezejado/Credit_Card_Approvals)  
-- Brain tumor classification and segmentation using Deep Learning (private)  
-- Predictive modeling on synthetic datasets (MDClone)  
+- [Lung Segmentation from Chest X-rays](https://github.com/niyontezejado/Lung_segmentation)   
+- Brain tumor classification and segmentation using Deep Learning (private)   
 - CT-to-Ultrasound registration pipeline with 3D models (in progress)
 
 ---
