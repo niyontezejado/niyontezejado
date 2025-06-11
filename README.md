@@ -1,15 +1,57 @@
-👋 Hi, I'm Jean De Dieu Niyonteze
+# Jean De Dieu NIYONTEZE  
+I'm an AI Engineer passionate about Artificial Intelligence in Healthcare and Medical Imaging.
 
-👀 I’m working in AI for Medical Imaging and Deep Learning Applications.  
-🌱 I graduated from Carnegie Mellon University with a Master of Science in Engineering Artificial Intelligence.  
-🌱 I also hold a Master's in Electrical Engineering from Fujian University of Technology.  
-🌱 I currently work at IRCAD France & Africa as an AI Research Engineer focusing on the application of AI in healthcare specifically using 2D and 3D medical imaging.  
+I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in segmentation, predictive modeling, and clinical AI tools.
 
-💞️ I enjoy collaborating on projects involving medical imaging, predictive modeling, and healthcare AI.  
-📫 How to reach me?  
-LinkedIn: [linkedin](https://linkedin.com/in/jean-de-dieu-niyonteze-309984110)  
-Linktree: [Linktree](https://linktr.ee/jniyonteze) 
+---
 
-Email: jeandedn@alumni.cmu.edu  
+🎓 **My Learning Journey**  
+- Master of Science in Engineering Artificial Intelligence — *Carnegie Mellon University, USA* (2023)  
+- Master of Engineering in Electrical Engineering — *Fujian University of Technology, China* (2021)  
+- Bachelor of Science in Electrical Engineering — *University of Rwanda* (2015)
+
+---
+
+💼 **My Experience Journey**  
+- **AI Research Engineer** — IRCAD France & Africa *(May 2023 – Present)*  
+  - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
+  - 3D CT vessel segmentation using MONAI nnU-Net V2  
+  - Automated fetal biometry from ultrasound with real-time quality checks  
+- **Graduate Teaching Assistant** — Carnegie Mellon University *(Sep 2022 – Dec 2022)*  
+  - Assisted in Data Inference and Applied ML course  
+- **Laboratory Researcher** — Fujian Key Lab, China *(Sep 2018 – Jun 2021)*  
+  - Focused on data science for energy optimization  
+- **Peer Reviewer** — Scientific Reports, IEEE Power Africa, IJ Photoenergy *(2023 – Present)*
+
+---
+
+👷 **Check out what I'm currently working on**  
+- Liver and vessel segmentation using VSNet  
+- Colon and Tumor Segmentation on Extended 3D MSD Dataset  
+
+---
+
+🌱 **My Latest Projects**  
+- [Lung Segmentation from Chest X-rays](https://github.com/niyontezejado/Lung_segmentation)  
+- [Credit Card Approval Prediction](https://github.com/niyontezejado/Credit_Card_Approvals)  
+- Brain tumor classification and segmentation using Deep Learning (private)  
+- Predictive modeling on synthetic datasets (MDClone)  
+- CT-to-Ultrasound registration pipeline with 3D models (in progress)
+
+---
+
+🏆 **Awards & Highlights**  
+- Chinese Government Outstanding International Student — *2020*  
 
 
+---
+
+📫 **How to reach me?**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jean-de-dieu-niyonteze-309984110)  
+- 💼 [GitHub](https://github.com/niyontezejado)  
+- 🌍 [Linktree](https://linktr.ee/jniyonteze)  
+- 📧 jeandedn@alumni.cmu.edu
+
+---
+
+⚽ Football lover | 🌍 Traveler | 🤖 AI for Social Good Advocate
