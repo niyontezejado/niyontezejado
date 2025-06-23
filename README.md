@@ -3,6 +3,8 @@ I'm an AI Engineer passionate about Artificial Intelligence in Healthcare and Me
 
 I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in segmentation, predictive modeling, and clinical AI tools.
 
+I'm currently working on medical imaging using AI and actively learning Generative AI and LLMs.
+
 ---
 
 🎓 **My Learning Journey**  
