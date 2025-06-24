@@ -1,7 +1,7 @@
 # Jean De Dieu NIYONTEZE  
 I'm an AI Engineer passionate about Artificial Intelligence in Healthcare and Medical Imaging.
 
-I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in segmentation, classification and predictive modeling in Helthcare.
+I'm a Deep Learning Engineer, Researcher, and ML Practitioner with expertise in segmentation, classification and predictive modeling in Healthcare.
 
 I'm currently actively exploring Generative AI and LLMs.
 
