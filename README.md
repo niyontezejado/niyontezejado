@@ -53,4 +53,4 @@ I'm currently actively exploring Generative AI and LLMs.
 
 ---
 
-⚽ Football lover | 🌍 Traveler | 🤖 AI for Social Good Advocate
+⚽ Football lover | 🌍 Traveler | 🤖 AI for Healthcare, Energy, & Business advocate
