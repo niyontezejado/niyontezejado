@@ -33,7 +33,7 @@ I'm currently actively exploring Generative AI and LLMs.
 ---
 
 🌱 **My Latest Projects**  
-- [Lung Segmentation from Chest X-rays](https://github.com/niyontezejado/Lung_segmentation)   
+- [Breast Cancer Classification using Machine Learning](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Breast_Cancer_Classification)   
 - Brain tumor classification and segmentation using Deep Learning (private)   
 - CT-to-Ultrasound registration pipeline with 3D models (in progress)
 
