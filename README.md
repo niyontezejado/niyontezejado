@@ -8,9 +8,14 @@ I'm currently actively exploring Generative AI and LLMs.
 ---
 
 🎓 **My Learning Journey**  
-- Master of Science in Engineering Artificial Intelligence — *Carnegie Mellon University, USA* (2023)  
-- Master of Engineering in Electrical Engineering — *Fujian University of Technology, China* (2021)  
-- Bachelor of Science in Electrical Engineering — *University of Rwanda* (2015)
+- **EMORY UNIVERSITY, GOIZUETA BUSINESS SCHOOL** - Atlanta, GA
+  - Master of Science in Business Analytics (MSBA), May 2026
+  - Concentration: Data Science, Machine Learning and Deep Learning
+ 
+- **CARNEGIE MELLON UNIVERSITY**	- Pittsburgh, PA
+  - Master of Science in Engineering Artificial Intelligence,	May 2023
+  - GPA: 3.6/4.0
+ 
 
 ---
 
