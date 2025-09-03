@@ -20,7 +20,7 @@ I'm currently actively exploring Generative AI and LLMs.
 ---
 
 💼 **My Experience Journey**  
-- **AI Research Engineer** — IRCAD France & Africa *(May 2023 – Present)*  
+- **AI Research Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
   - 3D CT vessel segmentation using MONAI nnU-Net V2   
 - **Graduate Teaching Assistant** — Carnegie Mellon University *(Sep 2022 – Dec 2022)*  
