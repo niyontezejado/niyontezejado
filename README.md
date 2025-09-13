@@ -14,7 +14,6 @@ I'm currently actively exploring Generative AI and LLMs.
  
 - **CARNEGIE MELLON UNIVERSITY**	- Pittsburgh, PA
   - Master of Science in Engineering Artificial Intelligence,	May 2023
-  - GPA: 3.6/4.0
  
 
 ---
