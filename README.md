@@ -12,7 +12,6 @@
 🎓 **My Learning Journey**  
 - **EMORY UNIVERSITY, GOIZUETA BUSINESS SCHOOL** - Atlanta, GA
   - Master of Science in Business Analytics (MSBA), May 2026
-  - Concentration: Data Science, Machine Learning and Deep Learning
  
 - **CARNEGIE MELLON UNIVERSITY**	- Pittsburgh, PA
   - Master of Science in Engineering Artificial Intelligence,	May 2023
