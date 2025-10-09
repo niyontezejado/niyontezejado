@@ -30,7 +30,7 @@
   - Assisted in Data Inference and Applied ML course  
 - **Laboratory Researcher** — Fujian Key Lab, China *(Sep 2018 – Jun 2021)*  
   - Focused on data science for energy optimization  
-- **Peer Reviewer** — Scientific Reports, IEEE Power Africa, IJ Photoenergy, Cell Press (Heliyon Journal)  *(2023 – Present)*
+- **Peer Reviewer** — Scientific Reports (Nature Portfolio), IEEE Power Africa (IEEE), International Journal of Photoenergy (Wiley), Cell Press (Heliyon Journal published by Elsevier), and Electrical Engineering (Springer) *(2023 – Present)*
 
 ---
 
