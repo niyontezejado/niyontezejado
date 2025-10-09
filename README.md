@@ -21,7 +21,7 @@
 
 💼 **My Experience Journey**  
 
-- **Independent Researcher**  *(August 2025 – Now)*  
+- **Independent Researcher**  *(August 2025 )*  
   - Coronary Artery Segmentation using Deep Learning
 - **AI Research Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
@@ -36,7 +36,7 @@
 
 👷 **Check out what I'm currently working on**  
 - Retinal image segmenation using deep learning (Ongoing) 
-- Colon and Tumor Segmentation on Extended 3D MSD Dataset  
+- Colon and Tumor Segmentation on Extended 3D MSD Dataset (Upcoming)  
 
 ---
 
