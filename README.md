@@ -35,7 +35,7 @@
 ---
 
 👷 **Check out what I'm currently working on**  
-- Liver and vessel segmentation using VSNet  
+- Retinal image segmenation using deep learning (Ongoing) 
 - Colon and Tumor Segmentation on Extended 3D MSD Dataset  
 
 ---
@@ -43,7 +43,6 @@
 🌱 **My Latest Projects**  
 - [Breast Cancer Classification using Machine Learning](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Breast_Cancer_Classification)   
 - Brain tumor classification and segmentation using Deep Learning (private)   
-- CT-to-Ultrasound registration pipeline with 3D models (in progress)
 
 ---
 
