@@ -23,13 +23,12 @@
 
 - **Independent Researcher**  *(August 2025 )*  
   - Diabetic Retinal Blood Vessel Segmentation using Deep Learning
-- **AI Research Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
+- **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
   - 3D CT vessel segmentation using MONAI nnU-Net V2   
 - **Graduate Teaching Assistant** — Carnegie Mellon University *(Sep 2022 – Dec 2022)*  
   - Assisted in Data Inference and Applied ML course  
-- **Laboratory Researcher** — Fujian Key Lab, China *(Sep 2018 – Jun 2021)*  
-  - Focused on data science for energy optimization  
+ 
 - **Peer Reviewer** — Scientific Reports (Nature Portfolio), IEEE Power Africa (IEEE), International Journal of Photoenergy (Wiley), Cell Press (Heliyon Journal published by Elsevier), and Electrical Engineering (Springer) *(2023 – Present)*
 
 ---
