@@ -21,7 +21,7 @@
 
 💼 **My Experience Journey**  
 
-- **Independent Researcher**  *(August 2025 - Now )*  
+- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - Now )*  
   - [Diabetic Retinal Blood Vessel Segmentation using Deep Learning ](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation): Accepted for publication in [ICARC](https://www.icarc.lk/index.php)
   
 - **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
