@@ -23,7 +23,7 @@
 
 - **Research Collaborator — Medical AI & Imaging**  *(August 2025 - Now )*  
   - [Diabetic Retinal Blood Vessel Segmentation using Deep Learning ](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation): Accepted for publication in [ICARC](https://www.icarc.lk/index.php) conference.
-  - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
+      - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
   
 - **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
