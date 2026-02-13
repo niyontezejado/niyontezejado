@@ -22,7 +22,7 @@
 💼 **My Experience Journey**  
 
 - **Independent Researcher**  *(August 2025 )*  
-  - Diabetic Retinal Blood Vessel Segmentation using Deep Learning
+  - [Diabetic Retinal Blood Vessel Segmentation using Deep Learning ]([https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Breast_Cancer_Classification](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation))
 - **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
   - 3D CT vessel segmentation using MONAI nnU-Net V2   
