@@ -21,8 +21,11 @@
 
 💼 **My Experience Journey**  
 
-- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - Now )*  
-  - [Diabetic Retinal Blood Vessel Segmentation using Deep Learning ](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
+- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - Now )*
+  - [Retinal Vessel Segmentation using Transformer-Based Architecture](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation_segformer)
+      - Accepted for publication in [ICARC](https://www.icarc.lk/index.php) conference.
+      - [Project Repository]()
+  - [Retinal Vessel Segmentation using Deep Learning ](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
       - Accepted for publication in [ICARC](https://www.icarc.lk/index.php) conference.
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
   
