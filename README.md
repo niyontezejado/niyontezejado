@@ -65,4 +65,4 @@
 
 ---
 
-⚽ Football lover | 🌍 Traveler | 🤖 AI for Healthcare, Energy, & Business advocate
+⚽ Football lover | 🌍 Traveler | 🤖 AI for Healthcare & Energy
