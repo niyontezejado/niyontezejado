@@ -3,7 +3,7 @@
 
 * **Data Scientist & Research Collaborator** with \~3 years of experience in **AI for Healthcare and Medical Imaging**, specializing deep learning techniques, and actively contributing to impactful publications in the field.
 * **Energy Researcher** with \~7 years of experience, successfully leading and collaborating on more than 7 projects at both national and international levels.
-* Proven track record of multidisciplinary impact in energy and healthcare (currently working hard in healthcare), with 270+ citations.
+* Proven track record of multidisciplinary impact in energy and healthcare (currently working hard in healthcare), with 280+ citations.
 
 
 
