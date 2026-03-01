@@ -40,7 +40,7 @@
 ---
 
 👷 **Check out what I'm currently working on**  
-- Retinal image segmenation using deep learning (Ongoing) 
+- Radiology-GPT (Ongoing) 
 - Colon and Tumor Segmentation on Extended 3D MSD Dataset (Upcoming)  
 
 ---
