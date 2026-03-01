@@ -21,7 +21,7 @@
 
 💼 **My Experience Journey**  
 
-- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - Now )*
+- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - February 2026 )*
   - [Retinal Vessel Segmentation using Transformer-Based Architecture](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation_segformer)
       - Accepted for publication in [ICARC](https://www.icarc.lk/index.php) conference.
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation_segformer)
