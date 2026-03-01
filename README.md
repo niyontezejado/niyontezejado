@@ -41,7 +41,7 @@
 
 👷 **Check out what I'm currently working on**  
 - Radiology-GPT (Upcoming)
-    - Ref/Acknowledgement:   [RadGPT](https://github.com/MrGiovanni/RadGPT/tree/main/evaluate_reports)
+    - Ref/Acknowledgement: [RadGPT](https://github.com/MrGiovanni/RadGPT/tree/main/evaluate_reports)  
 - Colon and Tumor Segmentation on Extended 3D MSD Dataset (Upcoming)  
 
 ---
