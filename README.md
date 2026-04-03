@@ -21,12 +21,12 @@
 
 💼 **My Experience Journey**  
 
-- **Research Collaborator — Medical AI & Imaging**  *(August 2025 - February 2026 )*
+- Project Collaborator — Medical AI & Imaging**  *(August 2025 - February 2026 )*
   - [Retinal Vessel Segmentation using Transformer-Based Architecture](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation_segformer)
-      - Accepted and presented at [ICARC](https://www.icarc.lk/index.php) conference. The preprint is available [here](https://www.researchgate.net/publication/401437102_Deep_Learning-Driven_Retinal_Vessel_Segmentation_Using_a_Transformer-Based_Architecture_A_Performance_Evaluation).
+      - Accepted and presented at [ICARC](https://www.icarc.lk/index.php) conference. Available [here](https://ieeexplore.ieee.org/document/11454025).
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation_segformer)
   - [Retinal Vessel Segmentation using Deep Learning ](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
-      - Accepted and presented at [ICARC](https://www.icarc.lk/index.php) conference. The preprint is available [here](https://www.researchgate.net/publication/401437658_Experimental_Evaluation_of_Public_Retinal_Vessel_Segmentation_Datasets_2020-2025_with_Deep_Learning_An_Empirical_Study).
+      - Accepted and presented at [ICARC](https://www.icarc.lk/index.php) conference. Available [here](https://ieeexplore.ieee.org/document/11453545).
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
   
 - **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
