@@ -50,7 +50,7 @@
 
 🌱 **My Latest Projects**  
 - [Breast Cancer Classification using Machine Learning](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Breast_Cancer_Classification)   
-- Brain tumor classification and segmentation using Deep Learning (private)   
+- Brain tumor classification using Deep Learning Transfer Learning (private)   
 
 ---
 
