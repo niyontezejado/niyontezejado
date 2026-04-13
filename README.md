@@ -61,7 +61,7 @@
 ---
 
 📫 **How to reach me?**  
-- 🌍 [Linktree](https://linktr.ee/jniyonteze)
+- 🌍 [Portfolio](https://niyontezejado.github.io/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jean-de-dieu-niyonteze-309984110)  
 - 💼 [Twitter](https://x.com/NIYONTEZEJADO)    
 - 📧 jeandedn@alumni.cmu.edu
