@@ -30,7 +30,7 @@
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/Retinal_Vessel_Segmentation)
   - [Brain Tumor Classification using Transfer Learning: Models Performance and Deployment Assessment](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/DL_Project)
       - [Project Repository](https://github.com/niyontezejado/Projects-for-AI-in-Healthcare/tree/main/DL_Project)
-      - Real Time Inference Demo: Available [Here](https://www.youtube.com/watch?v=YsaN1Dg6d68)
+      - Real Time Inference Demo: Available [here](https://www.youtube.com/watch?v=YsaN1Dg6d68).
   
 - **Research and Development Engineer** — IRCAD France & Africa *(May 2023 – June 2025)*  
   - Pneumothorax ultrasound segmentation using nnU-Net & SegFormer  
